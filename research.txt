@@ -1,0 +1,18 @@
+As of late, AI has been used in education in several different ways regarding education. It is mainly used to aid students with questions and work, and provide things such as advising and guidance. This has come as an extension of the integration of technology into curriculum; things like the Stanford Accelerator for Learning incorporate AI into classes as a way to create an ethical and fleshed out use of AI in education. There are also degrees and certificates for AI related things, like Berkeley's Professional Certificate in Machine Learning and Artificial Intelligence. AI is obviously a large part of modern technology, and it will be incorporated more in the future.
+As AI is trained on model data, this means you will often have large collections of diverse data to use. This raises a problem; this data needs to be secured. Securing it is a way of providing trust and privacy; it's a way of ensuring ethical protocol. Securing it is a process of; Encrypting it so that it can only be used and read by the intended recipients, controlling access, auditing the data to make sure it hasn't been altered and monitoring its use, and anonymizing the data. This is a way to ensure best practices for data so it isn't leaked or used unethically.
+
+References:
+AI + Education • Stanford Accelerator for Learning. Stanford Accelerator for Learning. (2024, October 23). 
+  https://acceleratelearning.stanford.edu/initiative/digital-learning/ai-and-education/ 
+  
+Amos, Z. (n.d.). How to secure machine learning data. How to Secure Machine Learning Data. 
+  https://gca.isa.org/blog/how-to-secure-machine-learning-data 
+
+Artificial Intelligence for Career guidance. Education Resources Information Center. (n.d.). 
+  https://files.eric.ed.gov/fulltext/EJ1318705.pdf 
+
+Professional certificate in Machine Learning and artificial intelligence. Berkeley Executive Education. (n.d.). 
+  https://em-executive.berkeley.edu/professional-certificate-machine-learning-artificial-intelligence 
+  
+Takyar, A. (2024, November 6). Data Security in AI systems: An overview. LeewayHertz. 
+  https://www.leewayhertz.com/data-security-in-ai-systems/ 
